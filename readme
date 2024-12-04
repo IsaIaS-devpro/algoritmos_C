@@ -1,0 +1,17 @@
+01. Faça um programa que receba um número e imprima ele caso seja maior que 20.
+02. Faça um programa que receba dois números. Calcule a soma dos dois números. Caso a soma seja maior que 10, imprima o resultado da soma.
+03. Faça um programa que receba um número e imprima se ele é par ou ímpar.
+04. Faça um programa que receba um número e imprima se ele é positivo, negativo ou nulo (zero).
+05. Faça um programa que receba dois números e efetue a soma deles. Caso o valor somado seja maior que 20, este deverá ser apresentado somando-se a ele mais 8; caso o valor somado seja menor ou igual a 20, este deverá ser apresentado subtraindo-se 5.
+06. Faça um programa que receba um número. Caso o número seja positivo, imprima sua raiz; caso contrário, imprima seu quadrado.
+07. Faça um programa que receba um número e imprima a mensagem: “é múltiplo de 3” ou “não é múltiplo de 3”.
+08. Faça um programa que receba um número a e um número b. Verifique se a é divisível por b ou não e imprima na tela essa informação.
+09. Faça um programa que receba dois inteiros diferentes. Imprima na tela o maior e o menor número.
+10. Faça um programa que receba quatro números e imprima o maior e o menor número.
+11. Faça um programa que receba três números e imprima-os em ordem crescente.
+12. Faça um programa que receba um inteiro e imprima se ele se encontra entre 20 e 90 ou não.
+13. Faça um programa que receba um número e imprima apenas “é válido” ou “não é válido” caos ele satisfaça pelo menos uma das condições: ser igual a 5, ser igual a 200, estar entre 10 e 100, estar entre 250 e 500.
+14. Faça um programa que receba um número e imprima sua raiz quadrada, se possível. Caso não seja possível, apresente a mensagem “não é possível“.
+15. Faça um programa que receba a idade de uma pessoa e imprima sua classe eleitoral (facultativo, obrigatório ou não-eleitor).
+16. Faça um programa que receba o valor de x e imprima o valor de f(x) com base na função abaixo:
+ 
